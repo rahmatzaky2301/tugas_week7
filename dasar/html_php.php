@@ -6,7 +6,7 @@
 </head> 
 <body> 
     <p>Teks ini hanyalah kode HTML sederhana</p> 
-    <?php echo "<p>Saya berasal dari PHP</p>"; ?> 
+    <?php echo "<p>Saya berasal dari PH</p>"; ?> 
     <p>Saya berasal dari HTML</p> 
     <?php echo "<p>Saya juga berasal dari PHP</p>"; ?> 
 </body> 
