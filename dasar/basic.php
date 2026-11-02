@@ -4,7 +4,7 @@
      
     // Case Insensitive 
     echo "<p>Hello World</p>"; 
-    ECHO "<p>Hello World</p>"; 
+    ECHO "<p>Hello Worl</p>"; 
     EcHo "<p>Hello World</p>"; 
  
     // Case Insensitive Error / Warning 
