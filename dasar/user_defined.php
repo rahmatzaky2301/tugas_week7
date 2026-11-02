@@ -1,7 +1,7 @@
 <?php  
     // Membuat dan Memanggil Function 
     function salam() { 
-        echo "<p>Selamat Pagi</p>"; 
+        echo "<p>Selamat Pag</p>"; 
     } 
     salam(); 
     salam(); 
